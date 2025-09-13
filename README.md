@@ -70,7 +70,7 @@ Replace `XXXXXXXXXXX` with your YouTube video ID.
 ## 🌐 Links
 - 🕹️ [Play Narrow.One](https://narrow.one/)
 - 🛠️ [Our Mods (GitHub Releases)](https://github.com/<your-username>/RW/releases)
-- ▶️ [YouTube Channel](https://www.youtube.com/@doctor-raptor)
+- ▶️ [YouTube Channel](https://www.youtube.com/@RW.N1Clan)
 
 ---
 
