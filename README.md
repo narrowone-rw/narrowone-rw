@@ -38,6 +38,12 @@
 ---
 
 ## 📺 How to use mod  
+<p align="center">
+  <a href="https://youtu.be/NOv-uTaOvek?si=-ICThNvzVo7NIytV" target="_blank">
+    <img src="https://github.com/user-attachments/assets/2d8e317a-22fb-4a5a-abef-240b36ee5bbe"
+         alt="Watch RW Clan Video" width="80%" />
+  </a>
+</p>
 
 
 ---
