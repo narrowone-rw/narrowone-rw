@@ -12,12 +12,13 @@
   <a href="https://www.youtube.com/@RW.N1Clan"><img src="https://img.shields.io/badge/YouTube-RW%20Clan-red?style=flat-square&logo=youtube" alt="YouTube"></a>
 </p>
 
-<!-- YouTube Embed Section -->
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
-    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg" alt="Watch the video" width="80%" />
+  <a href="https://youtu.be/WaI97OOZW1c?si=iRzjB-3lmWu4jYbb" target="_blank">
+    <img src="https://github.com/user-attachments/assets/e19d1c44-1d2f-45cd-beef-6161105209d6" 
+         alt="Watch RW Clan Video" width="80%" />
   </a>
 </p>
+
 
 ---
 
