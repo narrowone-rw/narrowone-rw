@@ -48,25 +48,6 @@
 
 ---
 
-## 📝 Installation (Tampermonkey)
-1. Install [Tampermonkey](https://www.tampermonkey.net/) in your browser.  
-2. Download `narrow-rw-mod.user.js` from the [Releases](https://github.com/<your-username>/RW/releases).  
-3. Open Tampermonkey → **Create a new script** → paste the code or import directly.  
-4. Visit [Narrow.One](https://narrow.one/) and enjoy the new UI.
-
----
-
-<details>
-<summary>📚 Developer Notes (click to expand)</summary>
-
-- Source code lives in the `mod/` directory.  
-- Pull requests and issues welcome.  
-- We recommend cloning the repo and using `npm run dev` to run local tooling (optional).  
-
-</details>
-
----
-
 ## 🌐 Links
 - 🕹️ [Play Narrow.One](https://narrow.one/)
 - 🛠️ [Our Mods (GitHub Releases)](https://github.com/<your-username>/RW/releases)
