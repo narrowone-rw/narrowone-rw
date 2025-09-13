@@ -1,7 +1,7 @@
 <!-- RW Clan – Narrow.One Mod Repository README -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/<your-username>/RW/main/assets/banner.png" alt="RW Banner" width="100%">
+  <img width="1200" height="300" alt="Image" src="https://github.com/user-attachments/assets/d13a6224-9f98-4d68-b198-7e2638d1860c" />
 </p>
 
 <h1 align="center">🛡️ RW — Narrow.One Clan Mods</h1>
