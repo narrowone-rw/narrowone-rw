@@ -12,10 +12,17 @@
   <a href="https://www.youtube.com/@doctor-raptor"><img src="https://img.shields.io/badge/YouTube-RW%20Clan-red?style=flat-square&logo=youtube" alt="YouTube"></a>
 </p>
 
+<!-- YouTube Embed Section -->
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
+    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg" alt="Watch the video" width="80%" />
+  </a>
+</p>
+
 ---
 
 ## 🎯 About RW
-> **RW (Raging Wolves)** is a Narrow.One clan and a small modding team.  
+> **RW (returning warrior)** is a Narrow.One clan.
 > We create and share lightweight user scripts and UI tweaks to enhance your gameplay.
 
 ---
