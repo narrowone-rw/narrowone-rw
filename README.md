@@ -28,13 +28,12 @@
 
 ---
 
-## 🚀 Featured Mod
+## 🚀 popular mods
 
 | Feature | Description |
 |---------|-------------|
-| **Kill Log UI** | Real-time display of all players’ kill logs in the top-right corner. |
-| **K/D Tracker** | Accurate kill/death ratio tracking. |
-| **1v1 Mode UI** | Minimalist UI for duel practice. |
+| **cyber ui Pro** | Change the UI to a cool cyber style. |
+| **k/d Supporter** | A mod that displays k/d. |
 
 ---
 
