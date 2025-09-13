@@ -37,14 +37,8 @@
 
 ---
 
-## 📺 Demo Video  
-*(YouTube embed works directly in GitHub READMEs thanks to raw HTML)*  
+## 📺 How to use mod  
 
-<div align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/XXXXXXXXXXX" title="RW Mod Demo" frameborder="0" allowfullscreen></iframe>
-</div>
-
-Replace `XXXXXXXXXXX` with your YouTube video ID.
 
 ---
 
