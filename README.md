@@ -35,8 +35,6 @@
 | **K/D Tracker** | Accurate kill/death ratio tracking. |
 | **1v1 Mode UI** | Minimalist UI for duel practice. |
 
-📥 **Download**: [Latest Release](https://github.com/<your-username>/RW/releases)
-
 ---
 
 ## 📺 Demo Video  
