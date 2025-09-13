@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://narrow.one/" target="_blank"><img src="https://img.shields.io/badge/Game-Narrow.One-1DA1F2?style=flat&logo=unity" alt="Narrow.One"></a>
   <a href="https://github.com/<your-username>/RW/releases"><img src="https://img.shields.io/github/v/release/<your-username>/RW?style=flat-square&color=brightgreen" alt="Latest Release"></a>
-  <a href="https://www.youtube.com/@doctor-raptor"><img src="https://img.shields.io/badge/YouTube-RW%20Clan-red?style=flat-square&logo=youtube" alt="YouTube"></a>
+  <a href="https://www.youtube.com/@RW.N1Clan"><img src="https://img.shields.io/badge/YouTube-RW%20Clan-red?style=flat-square&logo=youtube" alt="YouTube"></a>
 </p>
 
 <!-- YouTube Embed Section -->
