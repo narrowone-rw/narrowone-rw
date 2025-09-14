@@ -18,7 +18,13 @@
   </a>
 </p>
 
+<h1 align="center">RW Clan – Narrow.One Mods</h1>
 
+<p align="center">
+  <a href="https://github.com/narrowone-rw/Narrowone-mod">
+    <img src="https://img.shields.io/badge/🔗%20View%20Mods%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Mods Repository"/>
+  </a>
+</p>
 ---
 
 ## 🎯 About RW
