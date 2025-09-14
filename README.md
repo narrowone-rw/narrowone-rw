@@ -30,6 +30,7 @@
 ## 🎯 About RW
 > **RW (returning warrior)** is a Narrow.One clan.
 > We create and share lightweight user scripts and UI tweaks to enhance your gameplay.
+> https://github.com/narrowone-rw/Narrowone-mod
 
 ---
 
